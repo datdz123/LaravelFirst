@@ -1,0 +1,62 @@
+.header
+{
+    background-color: #DFF0D7;
+    border: 1px #DEE2D6 solid;
+    color: #407963;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 1.2vw;
+    width: 100%;
+    margin :20px 0px;
+}
+
+li {
+    padding: 0 15px;
+    color: #ccc;
+    text-decoration: none;
+    transition: 0.5s;
+    font-size: 0.8vw;
+}
+a{
+    color: white !important;
+}
+
+.menu{
+    background-color: black;
+    color: #ccc;
+    border-radius: 5px;
+    padding: 0px 15px;
+}
+ul.d-flex.flex-row {
+    padding: 10px;
+}
+li {
+    list-style-type: none;
+
+
+}
+ ul li a{
+    text-decoration: none !important;
+}
+ .banner
+ {
+     height: 300px;
+     width: 100%;
+ }
+ .imageCustom{
+    width: 100%;
+ }
+.boxsp {
+    min-height: 300px;
+    border: 1px #EEE solid;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.customPrice{
+    color: red;
+}
+.customTitle{
+    color: #407963 !important;
+    font-size: 1.2vw;
+}
+
